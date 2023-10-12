@@ -1,0 +1,53 @@
+.App,h1 {
+  text-align: center;
+  color: blue;
+
+}
+.menu{
+  background: black;
+  height: 100vw;
+
+}
+
+.logodiv{
+margin-bottom: 20px;
+font-size: 20px;
+margin-top: 0px;
+}
+
+#logo{
+  height: 80px;
+  width: 80px;
+  margin-left: 30px;
+}
+
+.fa-bars{
+  margin: 30px 0px 0px 30px;
+  
+}
+.sidebar ul{
+  color: white;
+  list-style: none;
+  margin: 0;
+  font-size: 17px;
+  padding-left: 10px;
+}
+.sidebar ul li{
+  margin: 0px 0px 20px 20px;
+  padding: 10px;
+  -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+.sidebar ul li:hover{
+  background-color:grey;
+}
+
+.sidebar ul li{
+  color:white;
+}
+
+.linkmenu{
+  text-decoration: none;
+}
+
